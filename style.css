@@ -1,0 +1,87 @@
+.navlink{
+text-decoration: none;
+ text-transform: uppercase;
+ font-size: 13px;
+ color: black;
+
+
+}
+
+.navmenu{
+
+list-style: none;
+float: right;
+padding-right: 100px;
+
+
+}
+
+li{
+
+    float: left;
+    padding-right: 20px;
+
+}
+
+.logo{
+
+padding-top: 10px;
+padding-left: 100px;
+
+
+}
+
+.text{
+
+float: left;
+margin-top: 150px;
+margin-left: 100px;
+
+}
+.img{
+
+    float: right;
+    margin-right: 150px;
+}
+.will{
+
+    width: 500px;
+    color: rgb(88, 70, 70);
+    margin-bottom: 30px; 
+}
+.this{
+
+    text-transform: uppercase;
+    font-size: 13px;
+}
+
+.text h1{
+
+text-transform: uppercase;
+font-size: 40px;
+
+}
+
+.discover{
+
+    text-decoration: none;
+    background:linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
+    padding: 11px 14px;
+    color: #fff;
+
+}
+
+.about{
+float: left;
+margin-top: 100px;
+
+
+}
+
+.abouttext{
+    float: right;
+    margin-right: 100px;
+    margin-top: 150px;
+
+
+}
